@@ -1,5 +1,6 @@
 from collections import deque
 
+# Create an empty queue using deque
 queue = deque()
 
 # Enqueue: Append to right → enqueue
